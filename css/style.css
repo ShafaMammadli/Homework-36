@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.task_2 {
+  margin: 30px;
+}
+
+.task_2 > button {
+  padding: 0 5px;
+  margin-bottom: 10px;
+}
+/* 
+.images {
+  margin: 50px 30px;
+}
+
+.images img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin: 0 12px;
+} */

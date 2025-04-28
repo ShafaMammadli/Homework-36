@@ -12,7 +12,7 @@
   padding: 0 5px;
   margin-bottom: 10px;
 }
-/* 
+
 .images {
   margin: 50px 30px;
 }
@@ -21,5 +21,11 @@
   width: 200px;
   height: 200px;
   object-fit: cover;
-  margin: 0 12px;
-} */
+  cursor: pointer;
+}
+
+img.big {
+  width: 250px;
+  height: 250px;
+  transition: 0.5s;
+}
